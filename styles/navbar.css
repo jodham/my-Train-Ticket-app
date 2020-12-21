@@ -46,7 +46,7 @@ section{
 
 @media(max-width: 800px){
 	.navbarholder{
-		height: 100%;
+	height: 100%;
 	width: 40%;
 	background: dodgerblue;
 	left: -50%;

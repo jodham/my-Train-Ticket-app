@@ -10,3 +10,11 @@
 	color: white;
 	padding: 2%;
 }
+/*-----------about us styling-------------*/
+.aboutusfooter{
+	width: 50%;
+	height: 300px;
+	background: dodgerblue;
+	box-shadow: 0 15px 20px rgba(0,0,0,0.2)
+}
+/*-----x------about us styling--------x-----*/
